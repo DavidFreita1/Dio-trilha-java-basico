@@ -3,7 +3,7 @@ public class Operadores {
 
 
         //classe Operadores.java
-       /* String nome = "GLEYSON";
+       String nome = "GLEYSON";
         int idade = 22;
         double peso = 68.5;
         char sexo = 'M';
@@ -98,7 +98,7 @@ public class Operadores {
             //equals na parada
             System.out.println(nome1.equals(nome2)); //??
             System.out.println(nome2.equals(nome3)); //??
-            System.out.println(nome3.equals(nome4)); //??*/
+            System.out.println(nome3.equals(nome4)); //??
         // Operadores.java
         boolean condicao1=true;
 
